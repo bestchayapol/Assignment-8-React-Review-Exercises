@@ -1,16 +1,16 @@
-import "../styles/Profile.css"
 
-function Profile() {
-    return (
-        <div className="profile">
-            <section>
-                <h2 className="pf">Profile</h2>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-                    Eum illo eius eligendi quod possimus aperiam? Aperiam facilis
-                     rem expedita repudiandae ut? Quod quam unde obcaecati voluptatem. 
-                     Eveniet alias asperiores labore!</p>
+function Profile(){
+    return(
+        // <center>
+            <section className="profile">
+                <h2 className="title">Profile</h2>
+                <p>
+                    I'm Chayapol Mahatthanachai, a 20-year old student study in cs@sit kmutt 
+                    who enthusiastic about computer programming.
+                </p>
             </section>
-        </div>
+        // </center>
     )
 }
+
 export default Profile

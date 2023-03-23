@@ -4,6 +4,9 @@ import Gallery from "./components/Gallery"
 import StateAssignmentOne from "./components/StateAssignmentOne"
 import StateAssignmentTwo from "./components/StateAssignmentTwo"
 import "./styles/App.css"
+import "./styles/FavoriteSites.css"
+import "./styles/Profile.css"
+import "./styles/Gallery.css"
 
 function App() {
   return (

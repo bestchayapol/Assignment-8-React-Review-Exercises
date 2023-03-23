@@ -5,11 +5,11 @@ function FavoriteSites() {
             <section>
                 <h2>Favorite Sites</h2>
                 <ul>
-                    <li><a href="https://www.google.com/">Site 1</a></li>
-                    <li><a href="https://www.facebook.com/">Site 2</a></li>
-                    <li><a href="https://www.netflix.com/">Site 3</a></li>
-                    <li><a href="https://www.amazon.com/">Site 4</a></li>
-                    <li><a href="https://www.youtube.com/">Site 5</a></li>
+                    <li><a href="https://www.google.com/">Google</a></li>
+                    <li><a href="https://www.facebook.com/">Facebook</a></li>
+                    <li><a href="https://www.netflix.com/">Netflix</a></li>
+                    <li><a href="https://www.amazon.com/">Amazon</a></li>
+                    <li><a href="https://www.youtube.com/">Youtube</a></li>
                 </ul>
             </section>
         </div>

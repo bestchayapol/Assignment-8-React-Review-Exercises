@@ -6,9 +6,9 @@ function Gallery() {
             <section>
                 <h2>Gallery</h2>
                 <ul>
+                    <li><img width={200} src="./assets/myProfile.jpeg" /></li>
                     <li><img width={200} src="./assets/shibuya-crossing.jpeg" /></li>
-                    <li><img width={200} src="./assets/shibuya-crossing.jpeg" /></li>
-                    <li><img width={200} src="./assets/shibuya-crossing.jpeg" /></li>
+                    <li><img width={200} src="./assets/losangeles.jpeg" /></li>
                 </ul>
             </section>
         </div>

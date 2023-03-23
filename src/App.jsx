@@ -3,7 +3,7 @@ import Profile from "./components/Profile"
 import Gallery from "./components/Gallery"
 import StateAssignmentOne from "./components/StateAssignmentOne"
 import StateAssignmentTwo from "./components/StateAssignmentTwo"
-import "./App.css"
+import "./styles/App.css"
 
 function App() {
   return (
@@ -13,10 +13,9 @@ function App() {
       <Gallery />
 
       <StateAssignmentOne />
-      <br />
       <StateAssignmentTwo />
     </div>
-  )
+  );
 }
 
 export default App

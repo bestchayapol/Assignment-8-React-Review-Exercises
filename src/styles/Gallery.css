@@ -1,0 +1,7 @@
+.gallery {
+    margin: 20px;
+}
+img:hover {
+    scale: 1.2;
+    transition: 1s;
+}

@@ -1,0 +1,16 @@
+.profile {
+    margin: 20px;
+    padding: 20px;
+}
+
+.profile:hover {
+    border: 1px solid red;
+    transition: 1s;
+}
+
+.pf:hover {
+    color: red;
+    transition: 1s;
+}
+
+  
